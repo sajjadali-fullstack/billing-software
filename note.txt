@@ -1,0 +1,17 @@
+# mujhe ak billing software banan hai with the help of python & tkinter ak fresher level ka attractive jis mai discount ka option or gst ka option bhi ho ky tum mujhe stp by step explain karte hue batao ge?
+"""
+Entry → Tkinter ka ek widget hota hai
+👉 jisme user typing karke input deta hai (textbox)
+
+root → main window jisme ye textbox dikhai dega
+
+discount_entry → ek variable name
+👉 jisme hum is textbox ko store kar rahe hain
+"""
+'''
+🔶 1. Tkinter kya hota hai?
+
+Tkinter Python ka built-in GUI (Graphical User Interface) toolkit hai.
+Isse aap windows, buttons, text boxes, labels, forms sab bana sakte ho —
+jaise desktop software banta hai.
+'''
