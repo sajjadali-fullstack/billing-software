@@ -115,8 +115,7 @@ This project helps beginners learn:
 ---
 
 ## 📸 Preview
-
-![Billing Software Preview](screenshots/billing_software_preview.png)
+<img src="screenshots/billing_software_preview.png" alt="Billing Software Preview" width="300">
 
 Simple desktop billing application featuring:
 
