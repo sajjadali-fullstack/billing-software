@@ -145,7 +145,7 @@ Simple desktop billing application featuring:
   &nbsp;
   
  <a href="https://sajjadali-fullstack.github.io/sajjad-ali-portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white"  width="30" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 </p>
 
