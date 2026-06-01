@@ -4,7 +4,7 @@ A simple and beginner-friendly Billing Software built with **Python** and **Tkin
 
 ---
 
-## 🚀 Features
+## ⚡ Features
 
 - ✅ Simple Tkinter GUI Interface
 - ✅ Item Name Input
@@ -128,7 +128,33 @@ Simple desktop billing application featuring:
 
 ---
 
-## 👨‍💻 Author
+<h2 align="center">🌐 Connect With Me</h2>
+
+* **LinkedIn:**  
+  <a href="https://www.linkedin.com/in/sajjadali-fullstack/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn"/>
+  </a>
+  
+  &nbsp;
+
+* **Gmail:**  
+  <a href="mailto:sajjadali.dev01@gmail.com">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" width="30" alt="Gmail"/>
+  </a>
+  
+  &nbsp;
+  
+ <a href="https://sajjadali-fullstack.github.io/sajjad-ali-portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white"  width="30" alt="Portfolio" />
+</a>
+</p>
+
+<p align="center">
+  <i>Feel free to reach out for collaborations or just a friendly hello!</i>
+</p>
+
+
+## 👨‍💻 Author Sajjad Ali
 
 Developed using **Python** and **Tkinter** as a beginner-friendly Billing Management System project.
 
